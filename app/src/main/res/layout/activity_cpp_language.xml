@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cpp_language"
+    android:orientation="vertical"
+    android:background="#1E233E">
+
+
+    <Button
+        android:id="@+id/cpp1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="C++ Language Introduction"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="C++ Programming Language Standard"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="C++ Preprocessors"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="C vs C++"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Input and output"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Operator, Arrays &amp; Strings"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp7"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Pointers and References"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp8"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Object Oriented Programming(OOP)"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp9"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Function Overloading"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/cpp10"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Operator Overloading"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

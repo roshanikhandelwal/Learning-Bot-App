@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".java_language"
+    android:orientation="vertical"
+    android:background="#1E233E">
+
+
+    <Button
+        android:id="@+id/j1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Basics of Java"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Flow Control"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Operators and Strings "
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="OOPS Concepts"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Inheritance and Abstraction"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Constructors and Methods"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j7"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Keywords in Java"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j8"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Classes &amp; Packages"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j9"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Exception Handling"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/j10"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Multithreading"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

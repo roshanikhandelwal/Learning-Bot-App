@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1E233E"
+    tools:context=".homePage"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="389dp"
+        android:layout_height="94dp"
+        android:fontFamily="@font/sniglet"
+        android:text="Welcome to the World
+        of Language"
+        android:layout_marginTop="20dp"
+        android:textColor="#B5EDA769"
+        android:textSize="34sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="90dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sriracha"
+        android:text="A Different language is a \ndifferent Vision of life"
+        android:textColor="#F4F4F4"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/white"
+        android:fontFamily="@font/mclaren"
+        android:text="Get inside"
+
+        android:textColor="@color/black"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="294dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        app:srcCompat="@drawable/study_grp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="400dp" />
+
+
+</LinearLayout>
+
+

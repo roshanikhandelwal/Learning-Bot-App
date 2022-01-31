@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sql_language"
+    android:orientation="vertical"
+    android:background="#1E233E">
+
+
+    <Button
+        android:id="@+id/s1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="SQL Language Introduction"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Clauses / Operators"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="DDL, DML, DCL and TCL Commands"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Query Processing"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="SQL-Injection"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="MySQL"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s7"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="SQL Server"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s8"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Functions (Aggregate and Scalar Functions)"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s9"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text=" Advanced Functions"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/s10"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Book Management Database"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

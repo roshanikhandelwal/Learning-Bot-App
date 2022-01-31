@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".python_language"
+    android:orientation="vertical"
+    android:background="#1E233E">
+
+
+    <Button
+        android:id="@+id/p1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Python language introduction"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Input/Output"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Data Types, Variables and Operators"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Python Collections"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Django Framework"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Data Analysis"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p7"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Numpy and Pandas"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p8"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Modules in Python"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p9"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Python GUI"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/p10"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Machine Learning with Python"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>

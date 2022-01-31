@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chash_language"
+    android:orientation="vertical"
+    android:background="#1E233E">
+
+
+    <Button
+        android:id="@+id/ch1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Introduction to .NET Framework"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Fundamentals"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Important Keywords"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="OOP Concepts and Methods"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Arrays &amp; ArrayList"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="ValueTuple"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch7"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Indexers &amp; Properties"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch8"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Multithreading"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch9"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Collections &amp; Generics"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/ch10"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/white"
+        android:text="Collections Namespace"
+        android:textAllCaps="false"
+        android:textColor="@color/black" />
+
+
+</LinearLayout>
